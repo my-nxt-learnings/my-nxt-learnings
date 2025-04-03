@@ -7,7 +7,7 @@ I am a trained **Full Stack Developer** with hands-on experience in designing an
 ## 🚀 **Tech Stack & Skills**
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
 - **Backend:** Node.js, Express.js  
-- **Database:** MySQL, SQLite  
+- **Database:** MySQL, MySQL, SQLite
 - **Other Tools:** Git, GitHub, AWS (Conceptual Understanding)  
 - **Programming Language:** Python (for building logic)  
 
